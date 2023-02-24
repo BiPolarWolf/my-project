@@ -1,1 +1,3 @@
 "text from branch new_text" 
+
+текст для второго коммита
